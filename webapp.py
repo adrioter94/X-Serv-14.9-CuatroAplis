@@ -42,6 +42,7 @@ class app:
                           "Dumb application just saying 'It works!'" +
                           "</h1><p>App id: " + str(self) + "<p></body></html>")
 
+
 class webApp:
     """Root of a hierarchy of classes implementing web applications
 
